@@ -16,3 +16,4 @@ This course will assume the use of:
 - Visual Studio Code (https://code.visualstudio.com/)
 - Git (https://git-scm.com/downloads)
 - Github Desktop (https://desktop.github.com/)
+- Diagrams.net (https://www.diagrams.net/)
