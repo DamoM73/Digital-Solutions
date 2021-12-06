@@ -1,1 +1,0 @@
-export default __webpack_public_path__ + "dio/math/extensions/a11y/mathmaps/fr.js";

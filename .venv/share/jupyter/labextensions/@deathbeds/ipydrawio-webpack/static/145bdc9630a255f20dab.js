@@ -1,1 +1,0 @@
-export default __webpack_public_path__ + "dio/math/jax/output/SVG/fonts/TeX/Size4/Regular/Main.js";
