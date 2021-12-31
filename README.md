@@ -10,10 +10,12 @@ This course will assume the use of:
 - Windows 10 or later
 - Python 3.10 (https://www.python.org/downloads/)
 - Virtual Environment
-- PyQt6
+- PyQt6 (pip install PyQt6)
 - Qt Designer (https://build-system.fman.io/qt-designer-download)
-- Jupyter Labs
+- Jupyter Labs (pip install jupyterlab)
 - Visual Studio Code (https://code.visualstudio.com/)
 - Git (https://git-scm.com/downloads)
 - Github Desktop (https://desktop.github.com/)
 - Diagrams.net (https://www.diagrams.net/)
+- Jupyter lab spellchecker (pip install jupyterlab-spellchecker)
+- Node JS (https://nodejs.org/en/download/)
